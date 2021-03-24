@@ -51,11 +51,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 *	Column for description length 
 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables. 
-
-![alt text](https://github.com/Anmolmv/Data-Science-Glassdoor_project/blob/main/salary_by_job_title.PNG")
-![alt text](https://github.com/Anmolmv/Data-Science-Glassdoor_project/blob/main/positions_by_state.png")
-![alt text](https://github.com/Anmolmv/Data-Science-Glassdoor_project/blob/main/correlation_visual.png")
+I looked at the distributions of the data and the value counts for the various categorical variables. 
 
 ## Model Building 
 
